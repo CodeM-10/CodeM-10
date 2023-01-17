@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mashail Althobity</h1>
 <h3 align="center">Freelance FullStack Wep Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/mh_1_6" target="blank"><img src="https://img.shields.io/twitter/follow/mh_1_6?logo=twitter&style=for-the-badge" alt="mh_1_6" /></a> </p>
+
 
 - 🌱 I’m currently learning **Artificial Intelligence &Python**
 
