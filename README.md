@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mashail Althobity</h1>
 <h3 align="center">Freelance FullStack Wep Developer</h3>
-
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 
 - 🌱 I’m currently learning **Artificial Intelligence &Python**
